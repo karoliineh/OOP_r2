@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lausearvutus-gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/lausearvutus-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lausearvutus-gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lausearvutus-gradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lausearvutus-gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lausearvutus-gradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mustruut-gradle.iml" filepath="$PROJECT_DIR$/mustruut-gradle.iml" />
+    </modules>
+  </component>
+</project>
